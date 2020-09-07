@@ -1,0 +1,29 @@
+body {
+  font-family: monospace;
+  color: white;
+  background-color: black;
+  display: block;
+  margin: 0px;
+}
+.heading {
+  text-align: center;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.div1 {
+  background-color: grey;
+  width: 314px;
+  height: 60px;
+  padding: 19px;
+  margin: 10px;
+  position: fixed;
+}
+.descriptionofme {
+  text-align: center;
+}
+.pro {
+  background-color: grey;
+  color: black;
+}
